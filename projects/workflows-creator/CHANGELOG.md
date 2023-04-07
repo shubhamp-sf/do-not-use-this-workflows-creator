@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/shubhamp-sf/do-not-use-this-workflows-creator/compare/v1.0.6...v1.0.7) (2023-04-07)
+
+
+### Bug Fixes
+
+* **lalala:** shhhhh ([eb6bb2a](https://github.com/shubhamp-sf/do-not-use-this-workflows-creator/commit/eb6bb2a335fb4e3883366763afd869af62cd52a2)), closes [#0](https://github.com/shubhamp-sf/do-not-use-this-workflows-creator/issues/0)
+* **version:** vvvvv ([7238c1b](https://github.com/shubhamp-sf/do-not-use-this-workflows-creator/commit/7238c1b9f957f2e9ff58a1dfd61db6ac581c601f)), closes [#0](https://github.com/shubhamp-sf/do-not-use-this-workflows-creator/issues/0)
+
 ## [1.0.6](https://github.com/shubhamp-sf/do-not-use-this-workflows-creator/compare/v1.0.5...v1.0.6) (2023-04-07)
 
 
