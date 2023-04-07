@@ -1,6 +1,6 @@
 {
   "name": "do-not-use-this-workflows-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for providing a smooth user workflow",
   "keywords": [
     "angular-library"
